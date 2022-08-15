@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Triple-A2000
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I'm also recently got enrolled the @alx_se program
+- 💞️ I'm also recently got enrolled @alx_se program
 - 📫 You can reach me @ boyeayomide@gmail.com
 
 <!---
