@@ -1,5 +1,4 @@
-![Screenshot 2023-03-10 020329](https://user-images.githubusercontent.com/111039968/224274535-6c1e3993-aca1-420c-ab3a-ea8684a406cf.png)
-
+![digitization-5231610_640](https://user-images.githubusercontent.com/111039968/224277360-6297dd8f-1ff5-4d3a-8208-d4b1e6717ed3.jpg)
 
 - 👋 Hi, I’m @Triple-A2000
 - 👀 I’m interested in programming
