@@ -1,4 +1,4 @@
-![digitization-5231610_640](https://user-images.githubusercontent.com/111039968/224277360-6297dd8f-1ff5-4d3a-8208-d4b1e6717ed3.jpg)
+![learning-3245793_resized](https://user-images.githubusercontent.com/111039968/224278559-52bfec80-2b3f-4f8a-9b0f-92bf487e5ce3.jpg)
 
 - 👋 Hi, I’m @Triple-A2000
 - 👀 I’m interested in programming
