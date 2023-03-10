@@ -1,9 +1,9 @@
 ![learning-3245793_cropped](https://user-images.githubusercontent.com/111039968/224279294-930f2302-3f5d-4e18-ab33-b782232ef8a4.jpg)
 
-- 👋 Hi, I’m @Triple-A2000
+- 👋 Hello world, I’m Ayomi Boye, a software developer based in Winnipeg, Canada
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I'm also recently got enrolled @alx_se program
+- 🌱 I’m currently learning python and javascript
+- 💞️ I'm also recently got enrolled @MITT
 - 📫 You can reach me @ boyeayomide@gmail.com
 
 <!---
