@@ -1,3 +1,6 @@
+![Screenshot 2023-03-10 020329](https://user-images.githubusercontent.com/111039968/224274535-6c1e3993-aca1-420c-ab3a-ea8684a406cf.png)
+
+
 - 👋 Hi, I’m @Triple-A2000
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
