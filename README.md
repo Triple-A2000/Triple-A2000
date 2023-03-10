@@ -1,4 +1,4 @@
-https://cdn.dribbble.com/userupload/4104953/file/original-1944c564bdc82a2e40ed49537db6d178.mp4
+https://giphy.com/gifs/art-animation-nftreadygo-BFtrl2E20mqri4qH3G/tile
 
 # 👀 About Me:
 - 👋 Hello world, I’m Ayomi Boye, a software developer based in Winnipeg, Canada
