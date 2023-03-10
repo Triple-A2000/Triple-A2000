@@ -1,4 +1,4 @@
-https://imgflip.com/gif/7dz1tz
+![vector-pop-art-illustration-man-woman-sitting-negotiation-table-top-view-concept-brainstorming-97657386](https://user-images.githubusercontent.com/111039968/224303288-68b85e84-8536-4fff-922f-3abf7898b9da.jpg)
 
 # 👀 About Me:
 - 👋 Hello world, I’m Ayomi Boye, a software developer based in Winnipeg, Canada
