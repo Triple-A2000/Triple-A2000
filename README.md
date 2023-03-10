@@ -1,4 +1,4 @@
-![learning-3245793_cropped](https://user-images.githubusercontent.com/111039968/224279294-930f2302-3f5d-4e18-ab33-b782232ef8a4.jpg)
+https://cdn.dribbble.com/userupload/4104953/file/original-1944c564bdc82a2e40ed49537db6d178.mp4
 
 # 👀 About Me:
 - 👋 Hello world, I’m Ayomi Boye, a software developer based in Winnipeg, Canada
@@ -27,4 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Triple-A2000&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
