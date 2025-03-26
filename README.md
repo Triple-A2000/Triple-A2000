@@ -1,4 +1,4 @@
-
+![My Bg Image](./Github_bg_profile_pic.jpg)
 
 # About Me
 - 👋 Hello, I’m Ayomi Boye, a software developer based in Winnipeg, Canada
