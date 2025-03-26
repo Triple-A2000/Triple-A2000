@@ -1,11 +1,9 @@
 ![My Bg Image](./assets/bg_profile_pic.jpg)
 
 # About Me
-- 👋 Hello, I’m Ayomi Boye, a software developer based in Winnipeg, Canada
-- 👀 I have passion for robotics and machine learning
-- 🌱 I’m currently learning python and javascript
-- 💞️ I'm also recently got enrolled @MITT
-- 📫 You can reach me @ boyeayomide@gmail.com
+Hi, I’m Ayomi Boye, a software developer based in Winnipeg, Canada. I have a deep passion for robotics and machine learning, and I’m currently expanding my skills in Python and JavaScript. Recently, I enrolled at MITT to gain hands-on experience and further my education in software development. I love exploring emerging technologies, especially in AI and automation, and I'm always looking for innovative ways to solve problems.
+
+Beyond coding, I enjoy collaborating on projects that challenge me to think creatively and push my limits. I'm always eager to connect with like-minded individuals, share ideas, and work on exciting new projects. If you'd like to network or discuss potential collaborations, feel free to reach out to me at boyeayomide@gmail.com.
 
 # Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
